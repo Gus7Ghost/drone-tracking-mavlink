@@ -39,7 +39,7 @@ flowchart LR
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/drone-tracking-mavlink.git
+git clone https://github.com/Gus7Ghost/drone-tracking-mavlink.git
 cd drone-tracking-mavlink
 
 # Instalar dependencias
